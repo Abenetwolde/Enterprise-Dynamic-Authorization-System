@@ -1,0 +1,5 @@
+{
+  "name": "AuthNexus: Enterprise Dynamic Authorization System",
+  "description": "A scalable RBAC and dynamic permission management system with policy-based control, featuring an Express backend and a React admin dashboard.",
+  "requestFramePermissions": []
+}
